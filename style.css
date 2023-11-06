@@ -1,8 +1,11 @@
 p{
-    color: brown;
+    color: chartreuse;
 }
 img{
     height: 350px;
     width: 300px;
     padding-right: 300px;
+}
+.pump{
+    color: rgb(0, 213, 255);
 }
